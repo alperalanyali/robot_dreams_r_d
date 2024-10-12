@@ -74,3 +74,6 @@ Bu görüntüde model, kedi ve köpekleri yüzdesi yüksek bir şekilde tahmin e
 
 
 
+### Video tespiti
+
+Bu video model, insan ve araçları başarılı şekilde algılamıştır. Sadece bir yerde saat tespiti yanlıştır.
