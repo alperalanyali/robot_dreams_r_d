@@ -1,0 +1,96 @@
+2024-11-16 19:11:56 - INFO - detector.py:26 - __init_resource() - Initializing resources for the detector . . .
+2024-11-16 19:11:56 - INFO - detector.py:29 - __init_resource() - Model loaded successfully from ./weights/yolo11x.pt.
+2024-11-16 19:11:56 - INFO - data_processor.py:9 - __init__() - DataProcessor initialized . . .
+2024-11-16 19:11:56 - INFO - detector.py:33 - __init_resource() - DataProcessor initialized for device: cpu.
+2024-11-16 19:11:56 - INFO - visualizer.py:11 - __init__() - Visualizer initialize...
+2024-11-16 19:11:56 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:11:56 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:11:56 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 2359296, confidence threshold: 0.5
+2024-11-16 19:11:58 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:11:58 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:11:58 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 2 rows
+2024-11-16 19:11:58 - INFO - visualizer.py:23 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:14:27 - INFO - detector.py:26 - __init_resource() - Initializing resources for the detector . . .
+2024-11-16 19:14:27 - INFO - detector.py:29 - __init_resource() - Model loaded successfully from ./weights/yolo11x.pt.
+2024-11-16 19:14:27 - INFO - data_processor.py:9 - __init__() - DataProcessor initialized . . .
+2024-11-16 19:14:27 - INFO - detector.py:33 - __init_resource() - DataProcessor initialized for device: cpu.
+2024-11-16 19:14:27 - INFO - visualizer.py:11 - __init__() - Visualizer initialize...
+2024-11-16 19:14:29 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:14:29 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:14:29 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 2359296, confidence threshold: 0.5
+2024-11-16 19:14:31 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:14:31 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:14:31 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 2 rows
+2024-11-16 19:14:31 - INFO - visualizer.py:18 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:16:01 - INFO - detector.py:26 - __init_resource() - Initializing resources for the detector . . .
+2024-11-16 19:16:02 - INFO - detector.py:29 - __init_resource() - Model loaded successfully from ./weights/yolo11x.pt.
+2024-11-16 19:16:02 - INFO - data_processor.py:9 - __init__() - DataProcessor initialized . . .
+2024-11-16 19:16:02 - INFO - detector.py:33 - __init_resource() - DataProcessor initialized for device: cpu.
+2024-11-16 19:16:02 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:16:02 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:16:02 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 2359296, confidence threshold: 0.5
+2024-11-16 19:16:03 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:16:03 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:16:03 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 2 rows
+2024-11-16 19:16:03 - INFO - visualizer.py:14 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:17:39 - INFO - detector.py:26 - __init_resource() - Initializing resources for the detector . . .
+2024-11-16 19:17:39 - INFO - detector.py:29 - __init_resource() - Model loaded successfully from ./weights/yolo11x.pt.
+2024-11-16 19:17:39 - INFO - data_processor.py:9 - __init__() - DataProcessor initialized . . .
+2024-11-16 19:17:39 - INFO - detector.py:33 - __init_resource() - DataProcessor initialized for device: cpu.
+2024-11-16 19:17:40 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:17:40 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:17:40 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 2359296, confidence threshold: 0.5
+2024-11-16 19:17:42 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:17:42 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:17:42 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 2 rows
+2024-11-16 19:17:42 - INFO - visualizer.py:15 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:17:42 - INFO - visualizer.py:60 - draw_bounding_boxes() - Finished drawing bounding boxes on image
+2024-11-16 19:17:42 - INFO - app.py:78 - detect_objects() - Bounding boxes drawn on image.
+2024-11-16 19:19:14 - INFO - detector.py:26 - __init_resource() - Initializing resources for the detector . . .
+2024-11-16 19:19:14 - INFO - detector.py:29 - __init_resource() - Model loaded successfully from ./weights/yolo11x.pt.
+2024-11-16 19:19:14 - INFO - data_processor.py:9 - __init__() - DataProcessor initialized . . .
+2024-11-16 19:19:14 - INFO - detector.py:33 - __init_resource() - DataProcessor initialized for device: cpu.
+2024-11-16 19:19:30 - INFO - detector.py:26 - __init_resource() - Initializing resources for the detector . . .
+2024-11-16 19:19:30 - INFO - detector.py:29 - __init_resource() - Model loaded successfully from ./weights/yolo11x.pt.
+2024-11-16 19:19:30 - INFO - data_processor.py:9 - __init__() - DataProcessor initialized . . .
+2024-11-16 19:19:30 - INFO - detector.py:33 - __init_resource() - DataProcessor initialized for device: cpu.
+2024-11-16 19:19:48 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:19:48 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:19:48 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 2359296, confidence threshold: 0.5
+2024-11-16 19:19:50 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:19:50 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:19:50 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 2 rows
+2024-11-16 19:19:50 - INFO - visualizer.py:15 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:19:50 - INFO - visualizer.py:60 - draw_bounding_boxes() - Finished drawing bounding boxes on image
+2024-11-16 19:19:50 - INFO - app.py:78 - detect_objects() - Bounding boxes drawn on image.
+2024-11-16 19:19:50 - INFO - image_processor.py:27 - get_bytes_from_image() - Image successfully converted to bytes.
+2024-11-16 19:20:43 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:20:43 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:20:43 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 11520000, confidence threshold: 0.5
+2024-11-16 19:20:44 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:20:44 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:20:44 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 9 rows
+2024-11-16 19:20:44 - INFO - visualizer.py:15 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:20:44 - INFO - visualizer.py:60 - draw_bounding_boxes() - Finished drawing bounding boxes on image
+2024-11-16 19:20:44 - INFO - app.py:78 - detect_objects() - Bounding boxes drawn on image.
+2024-11-16 19:20:44 - INFO - image_processor.py:27 - get_bytes_from_image() - Image successfully converted to bytes.
+2024-11-16 19:21:23 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:21:23 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:21:23 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 11520000, confidence threshold: 0.5
+2024-11-16 19:21:24 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:21:24 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:21:24 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 9 rows
+2024-11-16 19:21:24 - INFO - visualizer.py:15 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:21:24 - INFO - visualizer.py:60 - draw_bounding_boxes() - Finished drawing bounding boxes on image
+2024-11-16 19:21:24 - INFO - app.py:78 - detect_objects() - Bounding boxes drawn on image.
+2024-11-16 19:21:24 - INFO - image_processor.py:27 - get_bytes_from_image() - Image successfully converted to bytes.
+2024-11-16 19:23:46 - INFO - app.py:65 - detect_objects() - Detect Objects endpoint hit.
+2024-11-16 19:23:46 - INFO - app.py:68 - detect_objects() - Image file converted to image object.
+2024-11-16 19:23:46 - INFO - detector.py:42 - make_prediction_from_image() - Making predictions on image with size: 5062656, confidence threshold: 0.5
+2024-11-16 19:23:46 - INFO - detector.py:54 - make_prediction_from_image() - Predictions made successfully.
+2024-11-16 19:23:46 - INFO - data_processor.py:12 - transform_predict_to_df() - Transforming predictions to DataFrame...
+2024-11-16 19:23:46 - INFO - data_processor.py:35 - transform_predict_to_df() - Transformation complete. DataFrame created with 3 rows
+2024-11-16 19:23:46 - INFO - visualizer.py:15 - draw_bounding_boxes() - Starting to draw bounding boxes on image
+2024-11-16 19:23:46 - INFO - visualizer.py:60 - draw_bounding_boxes() - Finished drawing bounding boxes on image
+2024-11-16 19:23:46 - INFO - app.py:78 - detect_objects() - Bounding boxes drawn on image.
+2024-11-16 19:23:47 - INFO - image_processor.py:27 - get_bytes_from_image() - Image successfully converted to bytes.
